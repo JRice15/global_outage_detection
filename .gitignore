@@ -1,0 +1,12 @@
+# keys and such
+secrets/
+
+# system/program cache files
+.DS_Store
+__pycache__
+.ipynb_checkpoints/
+
+# temporary files
+temp/
+temp.*
+old/
