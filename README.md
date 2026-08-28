@@ -6,11 +6,11 @@ OWL-I (the **O**utage Frame**w**ork for **L**uminosity **I**nterruptions) is the
 
 The OWL-I USA dataset, produced with this model, is available on Zenodo [here](https://doi.org/10.5281/zenodo.20433557)
 
-
-This codebase is designed to be run on the NERSC supercomputing system.
-
+If you are interested in additional OWL-I data covering other regions, please contact me!  julian.rice@pnnl.gov
 
 ## Usage
+
+This codebase is designed to be run on the NERSC supercomputing system.
 
 
 1. Create the appropriate conda environment using the environment specs files in `env`
