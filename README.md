@@ -1,8 +1,11 @@
-# global_outage_detection
+# Global Outage Detection with OWL-I
 
-Code for "Global Power Outage Detection at the Kilometer Scale from Satellite Nighttime Lights". Preprint available at https://doi.org/10.31223/X5B507
+Code for "Global Power Outage Detection at the Kilometer Scale from Satellite Nighttime Lights". Preprint available on EarthArXiv: Rice et al. 2026 (https://doi.org/10.31223/X5B507)
 
 OWL-I (the **O**utage Frame**w**ork for **L**uminosity **I**nterruptions) is the first 1-km resolution, standardized, calibrated, and reproducible global outage detection method derived from satellite nighttime light observations, described in an upcoming publication Rice et al. (in review).
+
+The OWL-I USA dataset, produced with this model, is available on Zenodo [here](https://doi.org/10.5281/zenodo.20433557)
+
 
 This codebase is designed to be run on the NERSC supercomputing system.
 
