@@ -10,7 +10,7 @@ If you are interested in additional OWL-I data covering other regions, please co
 
 ## Usage
 
-This codebase is designed to be run on the NERSC supercomputing system.
+This codebase is designed to be run on the NERSC supercomputer, but will likely run on other systems.
 
 
 1. Create the appropriate conda environment using the environment specs files in `env`
